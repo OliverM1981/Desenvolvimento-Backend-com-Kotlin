@@ -1,0 +1,6 @@
+# Aprendendo Kotlin na Prática sem Sua Documentação Oficial
+
+Status: A Fazer
+Conteúdos: Conhecendo o Kotlin e sua documentação oficial (../Cronograma%20de%20Estudos%207435020aba9f45ad8a8d1d35031b9ebe/Conhecendo%20o%20Kotlin%20e%20sua%20documentac%CC%A7a%CC%83o%20oficial%20573eaa77c62245f7bb4f7ea4a2ec5707.md), Introdução prática à linguagem de programação Kotlin (../Cronograma%20de%20Estudos%207435020aba9f45ad8a8d1d35031b9ebe/Introduc%CC%A7a%CC%83o%20pra%CC%81tica%20a%CC%80%20linguagem%20de%20programac%CC%A7a%CC%83%20c989d80cb780484c8db4e7ae60d6124a.md), Estruturas de controle de fluxo e coleções em Kotlin (../Cronograma%20de%20Estudos%207435020aba9f45ad8a8d1d35031b9ebe/Estruturas%20de%20controle%20de%20fluxo%20e%20colec%CC%A7o%CC%83es%20em%20Ko%207a1690eb3e8d42c9aa08aa0eff806620.md), Orientação a objetos e tipos de classes na pratica com Kotlin (../Cronograma%20de%20Estudos%207435020aba9f45ad8a8d1d35031b9ebe/Orientac%CC%A7a%CC%83o%20a%20objetos%20e%20tipos%20de%20classes%20na%20prati%20c957ecac6303419f9018d9b6a45952d9.md), O poder das funções em Kotlin (../Cronograma%20de%20Estudos%207435020aba9f45ad8a8d1d35031b9ebe/O%20poder%20das%20func%CC%A7o%CC%83es%20em%20Kotlin%20869bbb8c0f39499d9eff18b702a41d27.md)
+Data: January 9, 2024
+Tipo: Curso

@@ -1,0 +1,6 @@
+# Praticando Sua Lógica de Programação com Kotlin
+
+Status: A Fazer
+Conteúdos: Suas primeiras condições em Kotlin (../Cronograma%20de%20Estudos%207435020aba9f45ad8a8d1d35031b9ebe/Suas%20primeiras%20condic%CC%A7o%CC%83es%20em%20Kotlin%203341ff13bff84b6c8b0e0cce9c44e14a.md), Avançando tecnicamente com a expressão WHEN (../Cronograma%20de%20Estudos%207435020aba9f45ad8a8d1d35031b9ebe/Avanc%CC%A7ando%20tecnicamente%20com%20a%20expressa%CC%83o%20WHEN%206c3db7534dcc41ae9b36ac49c295f7e1.md), Explorando mapas loops e regras com Kotlin (../Cronograma%20de%20Estudos%207435020aba9f45ad8a8d1d35031b9ebe/Explorando%20mapas%20loops%20e%20regras%20com%20Kotlin%20a00fd98c59164617ab536b23d7bf6eb7.md), Utilizando a keyword object com orientação a objetos (oo) (../Cronograma%20de%20Estudos%207435020aba9f45ad8a8d1d35031b9ebe/Utilizando%20a%20keyword%20object%20com%20orientac%CC%A7a%CC%83o%20a%20obj%208c94997a15274f45a9f610a1b61627e8.md), Orientação a objetos (OO) visando soluções mais idiomáticas (../Cronograma%20de%20Estudos%207435020aba9f45ad8a8d1d35031b9ebe/Orientac%CC%A7a%CC%83o%20a%20objetos%20(OO)%20visando%20soluc%CC%A7o%CC%83es%20mai%202b92f33da29642b49fda1c461df9fb51.md)
+Data: January 10, 2024
+Tipo: Desafio de Código
